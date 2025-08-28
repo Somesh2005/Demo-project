@@ -1,4 +1,4 @@
 # Demo-project
 This is my first git repository.
 <br>
-Author - Somesh Tripathi
+Author - Somesh Tripathi And Associates
